@@ -1,0 +1,27 @@
+{
+  "name": "intento-bot-discord",
+  "version": "1.0.0",
+  "description": "Intento de crear un bot para discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonnathan23/intento-bot-discord.git"
+  },
+  "keywords": [
+    "bot",
+    "node-js",
+    "discord"
+  ],
+  "author": "Jonnathan Saquicela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonnathan23/intento-bot-discord/issues"
+  },
+  "homepage": "https://github.com/Jonnathan23/intento-bot-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
